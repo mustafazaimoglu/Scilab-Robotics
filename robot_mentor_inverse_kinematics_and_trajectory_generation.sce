@@ -103,7 +103,3 @@ for i=1:tt_size
 
     sleep(40) // DELAY
 end
-
-
-
-
